@@ -143,6 +143,8 @@ while t_value != len(test.valid_bags):
     test.link_bags()
     print(t_value)
 
-print(test)
-test.new_count_bags()
+print(test.valid_bags)
+
+#print(test)
+#test.new_count_bags()
 

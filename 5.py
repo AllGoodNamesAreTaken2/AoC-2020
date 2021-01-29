@@ -45,4 +45,3 @@ ids.sort()
 for index in range(ids[0], ids[-1] + 1):
     if index not in ids:
         print(index)  # Part 2
-        print('Does not exist')

@@ -74,9 +74,6 @@ def handle_line(line):
         print('Dir After=' + current_direction)
         print('-------------')
 
-
-
-
 pos_x = abs(pos_x)
 pos_y = abs(pos_y)
 
